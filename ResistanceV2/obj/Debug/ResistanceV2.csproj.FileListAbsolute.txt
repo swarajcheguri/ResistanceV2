@@ -1,0 +1,240 @@
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll.config
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\ResistanceV2.pdb
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\EntityFramework.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Owin.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Razor.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\WebGrease.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Razor.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.pdb
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\EntityFramework.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.pdb
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.csprojResolveAssemblyReference.cache
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Http.dll
+C:\Users\scheguri\Documents\Visual Studio 2013\Projects\ResistanceV2\ResistanceV2\bin\System.Web.Http.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll.config
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\ResistanceV2.pdb
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Owin.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Http.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Razor.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\WebGrease.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Http.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Razor.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.pdb
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.pdb
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.csprojResolveAssemblyReference.cache
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\djuluri\Desktop\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll.config
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\ResistanceV2.pdb
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Owin.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Http.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Razor.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\WebGrease.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Http.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.Razor.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.pdb
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.csprojResolveAssemblyReference.cache
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.dll
+C:\Users\scheguri\Documents\My Received Files\ResistanceV2\ResistanceV2\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.pdb
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll.config
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\ResistanceV2.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\ResistanceV2.pdb
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\EntityFramework.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Owin.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Http.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Razor.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\WebGrease.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Newtonsoft.Json.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Http.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Helpers.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Mvc.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Optimization.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.Razor.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Antlr3.Runtime.pdb
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\EntityFramework.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\EntityFramework.SqlServer.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.csprojResolveAssemblyReference.cache
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.dll
+C:\Users\scheguri\Downloads\Resistance Final 2.0\ResistanceV2\ResistanceV2\obj\Debug\ResistanceV2.pdb

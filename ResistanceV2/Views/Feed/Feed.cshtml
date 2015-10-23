@@ -1,0 +1,160 @@
+﻿@{
+    ViewBag.Title = "Feed";
+}
+<link href="~/CSS/Feed.css" rel="stylesheet" />
+<style>
+    .message {
+        border: solid 1px black;
+    }
+</style>
+
+
+
+<div class="row" ng-app="FeedModule" ng-controller="FeedController">
+    <div class="col-xs-2">
+        <ul class="nav nav-pills nav-stacked nav-pills-stacked-example">
+            <li role="presentation" class="active"><a href="#myModal2" data-toggle="modal">Broadcast Message</a></li>
+            <li role="presentation"><a href="#" ng-click="getSavedMessages()"> Saved Messages</a></li>
+            <li role="presentation">@Html.ActionLink("Log out", "Logout", "Login")</li>
+        </ul>
+    </div>
+    <div class="col-xs-10">
+
+        <div>
+
+
+            <div class="modal fade" id="myModal2" role="dialog">
+                <div class="modal-dialog">
+
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Broadcast</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class=" col-xs-12 input-group input-group-lg">
+
+                                <input type="text" ng-maxlength="200" class="form-control" placeholder="Broadcast Message" aria-describedby="sizing-addon1" ng-model="broadcasteMessage">
+                                <button ng-click="postMessage()" data-dismiss="modal" type="button" class="btn btn-default" data-target="myModal2">Broadcast</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Comment</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class=" col-xs-12 input-group input-group-lg">
+                                <input type="text" class="form-control" placeholder="Comment" aria-describedby="sizing-addon1" ng-model="messageComment">
+                                <button ng-click="AddComment()" type="button" class="btn btn-default" data-dismiss="modal">Comment</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div ng-show="showFeed">
+                <h2>Broadcasted Messages</h2>
+                <div class="row messageContent" ng-repeat="message in messages">
+                    <div>
+                        <div class="col-xs-1 userIcon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></div>
+                        <div class="col-xs-11 container message" ng-class="{'redBorder': message.UserId==1 }">
+                            <div class="space">
+                                <span><a href="#">{{message.UserName}}</a></span>
+                                <span class="pull-right">{{message.DateMessaged}}</span>
+                            </div>
+                            <div class="space">
+                                {{message.MessageDesc}}
+                            </div>
+                            <div class="space">
+                                <span class="pull-left" ng-hide="message.UserId==1">
+                                    {{message.liked}}  <span class="glyphicon glyphicon-ok-sign" aria-hidden="true" ng-click="$parent.increment(message.MessageId)"></span>   
+                                    {{message.disliked}} <span class="glyphicon glyphicon-remove-sign" aria-hidden="true" ng-click="$parent.decrement(message.MessageId)"></span>
+
+                                </span>
+                                <span class="pull-right">
+                                    <a href="#myModal" data-toggle="modal" messageid={{message.MessageId}} ng-click="$parent.msgIdCmt=message.MessageId" class="comment">Add Comment</a>
+                                    <a ng-click="saveMessageToUser(message.MessageId)" class="savemessage">Save Message</a>
+                                </span>
+                            </div>
+
+                        </div>
+                        <div class=" col-xs-10 input-group input-group-lg message pull-right" ng-repeat="comment in message.Comments">
+                            <div class="col-xs-2 userIcon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></div>
+
+                            <div class="col-xs-10 container space">
+                                <span><a href="#">{{comment.UserName}}</a></span>
+                                <span class="pull-right">{{comment.DateCommented}}</span>
+                            </div>
+                            <div class="space">
+                                {{comment.Comment}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div ng-hide="showFeed">
+                <h2> Saved Messages</h2>
+                <div class="row messageContent" ng-repeat="message in savedMessages">
+                    <div class="col-xs-1 userIcon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></div>
+                    <div class="col-xs-11 container message" ng-class="{'redBorder': message.UserId==1 }">
+                        <div class="space">
+                            <span><a href="#">{{message.UserName}}</a></span>
+                            <span class="pull-right">{{message.DateMessaged}}</span>
+                        </div>
+                        <div class="space">
+                            {{message.MessageDesc}}
+                        </div>
+                        <div class="space">
+                            <span class="pull-left" ng-hide="message.UserId==1">
+                                {{message.liked}}  <span class="glyphicon glyphicon-ok-sign" aria-hidden="true" ng-click="$parent.increment(message.MessageId)"></span>   
+                                {{message.disliked}} <span class="glyphicon glyphicon-remove-sign" aria-hidden="true" ng-click="$parent.decrement(message.MessageId)"></span>
+
+                            </span>
+                            <span class="pull-right">
+                                <a href="#myModal" data-toggle="modal" messageid={{message.MessageId}} ng-click="$parent.msgIdCmt=message.MessageId" class=" comment">Add Comment</a>
+                            </span>
+                        </div>
+
+                    </div>
+                    <div class=" col-xs-10 input-group input-group-lg message pull-right" ng-repeat="comment in message.Comments">
+                        <div class="col-xs-2 userIcon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></div>
+
+                        <div class="col-xs-10 container space">
+                            <span><a href="#">{{comment.UserName}}</a></span>
+                            <span class="pull-right">{{comment.DateCommented}}</span>
+                        </div>
+                        <div class="space">
+                            {{comment.Comment}}
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/ui-bootstrap-0.14.2.js"></script>
+<script src="~/Scripts/jquery.signalR-2.2.0.js"></script>
+<script src="~/SignalR/hubs"></script>
+<script src="~/Scripts/ui-bootstrap-tpls-0.14.2.min.js"></script>
+<script src="~/Scripts/Feed/Feed.js"></script>

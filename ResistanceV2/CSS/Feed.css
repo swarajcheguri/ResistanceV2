@@ -1,0 +1,27 @@
+﻿body {
+        padding-top: 60px;
+}
+.userIcon{
+    font-size:60px;
+}
+.redBorder{
+    border:1px solid #06EEEE !important;
+}
+.messageContent{
+    margin-bottom:10px;
+}
+.space{
+    padding:4px;
+}
+.glyphicon{
+    cursor:pointer;
+    padding-left:2px;
+}
+.navbar-fixed-top{
+    background-color: white;
+        border-bottom: 1px solid black;
+}
+.comment{
+    color:orange;
+    padding-right:10px;
+}
